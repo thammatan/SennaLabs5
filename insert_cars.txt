@@ -1,0 +1,15 @@
+INSERT INTO Cars (ID,band) VALUES 
+('1','Corvette Z06'),
+('2','Lotus Exige S'),
+('3','BMW M3'),
+('4','BMW 320d'),
+('5','Mercedes SLK AMG'),
+('6','Toyota Alphard'),
+('7','Mercedes Sprinter'),
+('8','Toyota Camry'),
+('9','BMW M5'),
+('10','Porsche 911'),
+('11','Jaguar'),
+('12','TukTuk'),
+('13','Mini Cooper'),
+('14','Honda Jazz');
